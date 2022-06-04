@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/78826405/171996720-c6e7cf41-1487-4ec2-b392-729eefd9cabe.png)
+
+
 # Clone this repository
 
     git clone https://github.com/mdmarufsarker/es6-setup.git
@@ -22,6 +25,4 @@
 
     npm run build:watch
 
-## Thanks for playing.
-
-## Subscribe my [YouTube Channel](https://www.youtube.com/c/MdMarufSarkerOfficial) for more information
+- Subscribe my [YouTube Channel](https://www.youtube.com/c/MdMarufSarkerOfficial) for more information
