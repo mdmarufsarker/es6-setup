@@ -1,3 +1,6 @@
+- New Structure
+![image](https://user-images.githubusercontent.com/78826405/172052801-44a9ed87-1dfa-43e9-82d7-f73143b6b7fd.png)
+- Old Structure
 ![image](https://user-images.githubusercontent.com/78826405/171996720-c6e7cf41-1487-4ec2-b392-729eefd9cabe.png)
 - [vscode theme used](https://marketplace.visualstudio.com/items?itemName=mdmarufsarker.maruf-sarker&ssr=false&fbclid=IwAR01NsP2IqaIxXW9foD1j6K1ghmUKW03Id98tRqkJmuZSpBbfxb4PmgqyTo#review-details)
 
