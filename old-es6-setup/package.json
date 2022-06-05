@@ -4,10 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/webpack -w",
-    "compile:scss": "node-sass -i './src/scss/style.scss' -o './public/' -w",
-    "buildjs": "./node_modules/.bin/webpack",
-    "buildcss": "node-sass -i './src/scss/style.scss' -o './dist/'",
+    "build": "./node_modules/.bin/webpack",
+    "build:watch": "./node_modules/.bin/webpack --watch",
     "serve": "./node_modules/.bin/webpack serve"
   },
   "author": "Maruf Sarker",
@@ -20,8 +18,5 @@
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^3.11.3"
-  },
-  "dependencies": {
-    "node-sass": "^7.0.1"
   }
 }
