@@ -49,4 +49,4 @@
 # If you don't like this setup then follow old-es6-setup directory and if you like this setup then delete the old-es6-setup directory
 
 - Subscribe [Stack Learner](https://www.youtube.com/c/StackLearner) YouTube Channel
-- Subscribe my [YouTube Channel](https://www.youtube.com/c/MdMarufSarkerOfficial) for  problem solving videos
+- You can follow me on [YouTube](https://www.youtube.com/c/MdMarufSarkerOfficial) for problem solving videos
