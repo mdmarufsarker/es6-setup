@@ -25,8 +25,13 @@
 # Start generate es5 code (watch mood)
 
     npm run build
+    
+# Note that-
+    
+    you have to write your codes on the src direcotory
+    and you are going to see you compiled js codes in the build directory
 
-# If you don't like this setup then follow old-es6-setup directory and if you like this setup then delete the old-es6-setup directory
+If you don't like this setup then follow old-es6-setup directory and if you like this setup then delete the old-es6-setup directory
 
 - Subscribe [Stack Learner](https://www.youtube.com/c/StackLearner) YouTube Channel
 - You can follow me on [YouTube](https://www.youtube.com/c/MdMarufSarkerOfficial) for problem solving videos
