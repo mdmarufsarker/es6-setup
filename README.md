@@ -5,8 +5,11 @@
 
 # Features
 
+- You can easily compile scss code into css code
 - You can easily compile es6 code into es5 code
 - For writing javascript codes a dedicated folder called src is available
+- For writing scss codes a dedicated folder called src/scss is available
+- All the output can be found on the build folder
 
 ## Want to use this repository? Follow the instructions
 
@@ -24,16 +27,20 @@
 
 # Start generate es5 code (watch mood)
 
-    npm run build
-    
+    npm run build-js
+
+# Create a new tab and Start generate css code (watch mood)
+
+    npm run build-scss
+
 # Note that-
-    
+
     you have to write your codes on the src direcotory
-    and you are going to see you compiled js codes in the build directory
+    and you are going to see you compiled js/scss codes in the build directory
 
 If you don't like this setup then follow old-es6-setup directory and if you like this setup then delete the old-es6-setup directory
 
 - Subscribe [Stack Learner](https://www.youtube.com/c/StackLearner) YouTube Channel
 - You can follow me on [YouTube](https://www.youtube.com/c/MdMarufSarkerOfficial) for problem solving videos
 
-- If you face any problem then create a issue with proper information 
+- If you face any problem then create a issue with proper information
