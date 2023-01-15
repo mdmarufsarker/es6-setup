@@ -37,6 +37,10 @@
 
     npm run build-scss
 
+## Run JS and SCSS Both using a single command
+    
+    npm run build
+
 ## Note that-
 
 you have to write your codes on the src direcotory and you are going to see you compiled js/scss codes in the build directory
